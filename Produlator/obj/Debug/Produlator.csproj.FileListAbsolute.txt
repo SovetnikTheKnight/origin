@@ -1,0 +1,192 @@
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\bin\Debug\Produlator.exe.config
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\bin\Debug\Produlator.exe
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\bin\Debug\Produlator.pdb
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\obj\Debug\Produlator.csproj.AssemblyReference.cache
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\obj\Debug\Produlator.csproj.SuggestedBindingRedirects.cache
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\obj\Debug\MainWindow.g.cs
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\obj\Debug\App.g.cs
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\obj\Debug\Produlator_MarkupCompile.cache
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\obj\Debug\Produlator_MarkupCompile.lref
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\obj\Debug\MainWindow.baml
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\obj\Debug\Produlator.g.resources
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\obj\Debug\Produlator.Properties.Resources.resources
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\obj\Debug\Produlator.csproj.GenerateResource.cache
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\obj\Debug\Produlator.csproj.CoreCompileInputs.cache
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\obj\Debug\Produlator.exe
+E:\Мододельство или как потерять пол дня\VS things\C++\2024 College\Курсовая работа\WPF\Produlator\Produlator\obj\Debug\Produlator.pdb
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\Produlator.csproj.AssemblyReference.cache
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\Produlator.csproj.SuggestedBindingRedirects.cache
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\AuthorizationWindow.g.cs
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\MainWindow.g.cs
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\RefreshWindow.g.cs
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\App.g.cs
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\Produlator_Content.g.cs
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\Produlator_MarkupCompile.cache
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\Produlator_MarkupCompile.lref
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\bin\Debug\Produlator.exe.config
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\bin\Debug\Produlator.exe
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\bin\Debug\Produlator.pdb
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\bin\Debug\EntityFramework.dll
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\bin\Debug\EntityFramework.SqlServer.dll
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\bin\Debug\EntityFramework.xml
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\bin\Debug\EntityFramework.SqlServer.xml
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\bin\Debug\ru\EntityFramework.resources.dll
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\AuthorizationWindow.baml
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\MainWindow.baml
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\RefreshWindow.baml
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\Produlator.g.resources
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\Produlator.Properties.Resources.resources
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\Produlator.csproj.GenerateResource.cache
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\Produlator.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\Produlator.csproj.CopyComplete
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\Produlator.exe
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\Produlator.pdb
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\AddEditWindow.g.cs
+E:\Рабочий стол\Курсач\Новая папка\Produlator\Produlator\obj\Debug\AddEditWindow.baml
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\bin\Debug\Produlator.exe.config
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\bin\Debug\Produlator.exe
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\bin\Debug\Produlator.pdb
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\bin\Debug\EntityFramework.dll
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\bin\Debug\EntityFramework.SqlServer.dll
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\bin\Debug\EntityFramework.xml
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\bin\Debug\EntityFramework.SqlServer.xml
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\bin\Debug\ru\EntityFramework.resources.dll
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\Produlator.csproj.AssemblyReference.cache
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\AddEditWindow.g.cs
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\AuthorizationWindow.g.cs
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\MainWindow.g.cs
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\RefreshWindow.g.cs
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\App.g.cs
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\Produlator_Content.g.cs
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\Produlator_MarkupCompile.cache
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\Produlator_MarkupCompile.lref
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\AddEditWindow.baml
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\AuthorizationWindow.baml
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\MainWindow.baml
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\RefreshWindow.baml
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\Produlator.g.resources
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\Produlator.Properties.Resources.resources
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\Produlator.csproj.GenerateResource.cache
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\Produlator.csproj.CoreCompileInputs.cache
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\Produlator.csproj.Up2Date
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\Produlator.exe
+D:\исп41\_Belik\C#\Курсовая работа\Produlator\Produlator\obj\Debug\Produlator.pdb
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\bin\Debug\Produlator.exe.config
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\bin\Debug\Produlator.exe
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\bin\Debug\Produlator.pdb
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\bin\Debug\EntityFramework.dll
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\bin\Debug\EntityFramework.SqlServer.dll
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\bin\Debug\EntityFramework.xml
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\bin\Debug\EntityFramework.SqlServer.xml
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\bin\Debug\ru\EntityFramework.resources.dll
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\Produlator.csproj.AssemblyReference.cache
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\AddEditWindow.g.cs
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\AuthorizationWindow.g.cs
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\MainWindow.g.cs
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\RefreshWindow.g.cs
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\App.g.cs
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\Produlator_Content.g.cs
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\Produlator_MarkupCompile.cache
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\Produlator_MarkupCompile.lref
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\AddEditWindow.baml
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\AuthorizationWindow.baml
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\MainWindow.baml
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\RefreshWindow.baml
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\Produlator.g.resources
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\Produlator.Properties.Resources.resources
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\Produlator.csproj.GenerateResource.cache
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\Produlator.csproj.CoreCompileInputs.cache
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\Produlator.csproj.Up2Date
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\Produlator.exe
+D:\исп41\_Belik\C#\Курсовая работа 19.11.2024\Produlator\Produlator\obj\Debug\Produlator.pdb
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\bin\Debug\Produlator.exe.config
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\bin\Debug\Produlator.exe
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\bin\Debug\Produlator.pdb
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\bin\Debug\EntityFramework.dll
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\bin\Debug\EntityFramework.SqlServer.dll
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\bin\Debug\EntityFramework.xml
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\bin\Debug\EntityFramework.SqlServer.xml
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\bin\Debug\ru\EntityFramework.resources.dll
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\Produlator.csproj.AssemblyReference.cache
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\AddEditWindow.g.cs
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\AuthorizationWindow.g.cs
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\MainWindow.g.cs
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\RefreshWindow.g.cs
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\App.g.cs
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\Produlator_MarkupCompile.cache
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\Produlator_MarkupCompile.lref
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\AddEditWindow.baml
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\AuthorizationWindow.baml
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\MainWindow.baml
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\RefreshWindow.baml
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\Produlator.g.resources
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\Produlator.Properties.Resources.resources
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\Produlator.csproj.GenerateResource.cache
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\Produlator.csproj.CoreCompileInputs.cache
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\Produlator.csproj.Up2Date
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\Produlator.exe
+D:\ИСП–41\Белик Денис\Курсовая работа 21.11.2024\Produlator\Produlator\obj\Debug\Produlator.pdb
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\bin\Debug\Produlator.exe
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\bin\Debug\EntityFramework.dll
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\bin\Debug\EntityFramework.SqlServer.dll
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\bin\Debug\ru\EntityFramework.resources.dll
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\bin\Debug\Produlator.exe.config
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\bin\Debug\EntityFramework.xml
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\bin\Debug\EntityFramework.SqlServer.xml
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\Produlator.csproj.AssemblyReference.cache
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\AddEditWindow.g.cs
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\AuthorizationWindow.g.cs
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\choose_by_products_page.g.cs
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\MainWindow.g.cs
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\RefreshWindow.g.cs
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\sort_by_products_page.g.cs
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\App.g.cs
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\Produlator_Content.g.cs
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\Produlator_MarkupCompile.cache
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\Produlator_MarkupCompile.lref
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\AddEditWindow.baml
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\AuthorizationWindow.baml
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\choose_by_products_page.baml
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\MainWindow.baml
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\RefreshWindow.baml
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\sort_by_products_page.baml
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\Produlator.g.resources
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\Produlator.Properties.Resources.resources
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\Produlator.csproj.GenerateResource.cache
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\Produlator.csproj.CoreCompileInputs.cache
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\Produlator.csproj.Up2Date
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\Produlator.exe
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\obj\Debug\Produlator.pdb
+E:\Учёба\VS things\С#\Курсовая работа 22.11.2024\Produlator\Produlator\bin\Debug\Produlator.pdb
+C:\Users\USER\Desktop\Produlator\Produlator\bin\Debug\Produlator.exe.config
+C:\Users\USER\Desktop\Produlator\Produlator\bin\Debug\Produlator.exe
+C:\Users\USER\Desktop\Produlator\Produlator\bin\Debug\Produlator.pdb
+C:\Users\USER\Desktop\Produlator\Produlator\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Produlator\Produlator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Produlator\Produlator\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Produlator\Produlator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Produlator\Produlator\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\Produlator.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\AddEditWindow.g.cs
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\AuthorizationWindow.g.cs
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\choose_by_products_page.g.cs
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\RefreshWindow.g.cs
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\sort_by_products_page.g.cs
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\Produlator_Content.g.cs
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\Produlator_MarkupCompile.cache
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\Produlator_MarkupCompile.lref
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\AddEditWindow.baml
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\AuthorizationWindow.baml
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\choose_by_products_page.baml
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\RefreshWindow.baml
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\sort_by_products_page.baml
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\Produlator.g.resources
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\Produlator.Properties.Resources.resources
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\Produlator.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\Produlator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\Produlator.csproj.Up2Date
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\Produlator.exe
+C:\Users\USER\Desktop\Produlator\Produlator\obj\Debug\Produlator.pdb

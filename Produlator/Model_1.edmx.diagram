@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="342c7b5fd21d40448f30b34eb8424112" Name="Diagram1">
+        <EntityTypeShape EntityType="Produlator_dbModel.access_level" Width="1.5" PointX="7.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Produlator_dbModel.account" Width="1.5" PointX="10" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Produlator_dbModel.goods" Width="1.5" PointX="5.25" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Produlator_dbModel.pallet" Width="1.5" PointX="5.25" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Produlator_dbModel.product" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Produlator_dbModel.product_date" Width="1.5" PointX="3" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="Produlator_dbModel.shelf" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Produlator_dbModel.sysdiagrams" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="Produlator_dbModel.FK__account__access___398D8EEE" ManuallyRouted="false" />
+        <AssociationConnector Association="Produlator_dbModel.FK__goods__product_d__18EBB532" ManuallyRouted="false" />
+        <AssociationConnector Association="Produlator_dbModel.FK__goods__product_i__17036CC0" ManuallyRouted="false" />
+        <AssociationConnector Association="Produlator_dbModel.FK__goods__shelf_id__17F790F9" ManuallyRouted="false" />
+        <AssociationConnector Association="Produlator_dbModel.FK__pallet__shelf_id__0C85DE4D" ManuallyRouted="false" />
+        <AssociationConnector Association="Produlator_dbModel.FK__product_d__produ__0F624AF8" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
